@@ -1,10 +1,3 @@
-# A Multi-user Drawing Program
-
-A porting to Glitch of a [little application developed 
-by Dan Shiffman](https://youtu.be/bjULmG8fqc8) in a video
-series from way back in 2016. I used a more modern version 
-of JavaScript.
-
 ## Instructions:
 
 Fork this project and run it in Glitch. It will run
